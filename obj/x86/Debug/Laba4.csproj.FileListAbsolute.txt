@@ -1,0 +1,7 @@
+F:\Projects\C#\ТИ\Laba4\bin\Debug\Laba4.exe
+F:\Projects\C#\ТИ\Laba4\bin\Debug\Laba4.pdb
+F:\Projects\C#\ТИ\Laba4\obj\x86\Debug\Laba4.Form1.resources
+F:\Projects\C#\ТИ\Laba4\obj\x86\Debug\Laba4.Properties.Resources.resources
+F:\Projects\C#\ТИ\Laba4\obj\x86\Debug\Laba4.csproj.GenerateResource.Cache
+F:\Projects\C#\ТИ\Laba4\obj\x86\Debug\Laba4.exe
+F:\Projects\C#\ТИ\Laba4\obj\x86\Debug\Laba4.pdb
